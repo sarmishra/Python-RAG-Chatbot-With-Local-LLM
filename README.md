@@ -1,6 +1,6 @@
 # 🤖 RAG-Powered PDF Chatbot with Local LLM (Ollama + Streamlit UI)
 
-Build a **Retrieval-Augmented Generation (RAG)** chatbot for your local PDFs using **ChromaDB**, **LangChain**, and **Ollama** with a **Mistral** model—completely offline, no OpenAI API needed.
+Build a **Retrieval-Augmented Generation (RAG)** chatbot for local PDFs/texts using **ChromaDB**, **LangChain**, and **Ollama** with a **Mistral** model—completely offline, no OpenAI API needed.
 
 ---
 
@@ -16,6 +16,8 @@ Build a **Retrieval-Augmented Generation (RAG)** chatbot for your local PDFs usi
 
 ## 🗂️ Project Structure
 
+```text
+.
 ├── chroma/ # Persisted ChromaDB vector store
 ├── data/ # Source documents (PDFs/texts)
 ├── get_embedding_function.py # Returns embedding function
@@ -25,6 +27,7 @@ Build a **Retrieval-Augmented Generation (RAG)** chatbot for your local PDFs usi
 ├── test_rag.py # Run few unit test cases
 ├── requirements.txt # Python dependencies
 └── README.md # This file
+```
 
 ---
 
