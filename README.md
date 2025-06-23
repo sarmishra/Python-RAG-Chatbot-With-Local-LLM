@@ -96,6 +96,6 @@ pytest -s
 
 ## 🖼️ Preview
 
-![Landing Page](https://github.com/sarmishra/Python-RAG-Chatbot/blob/main/AI_Chatbot_UI.png)
+![Landing Page](https://github.com/sarmishra/Python-RAG-Chatbot-With-Local-LLM/blob/main/RAG-Chatbot-WIth-Local-LLM-Preview.png)
 
 ---
