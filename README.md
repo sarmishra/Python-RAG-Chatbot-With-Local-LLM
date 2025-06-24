@@ -68,9 +68,9 @@ Launch the UI:
 streamlit run app.py
 ```
 
-• Input your question in the text field
-• Get answers and see cited source chunks
-• Uses local Chroma vector store + Mistral model
+- Input your question in the text field
+- Get answers and see cited source chunks
+- Uses local Chroma vector store + Mistral model
 
 ### 1.2: Command-Line Interface
 
